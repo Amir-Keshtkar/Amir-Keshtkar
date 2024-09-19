@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Development (.Net)
 --------------------------
 
-I am a .NET developer driven by efficiency and excellence. My relentless pursuit of perfection fuels my continuous learning in the tech realm. I embrace new technologies with enthusiasm.
+I am a .NET developer with +3 years professional experience. My relentless pursuit of perfection fuels my continuous learning in the tech realm. I embrace new technologies with enthusiasm.
 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [amir78ahkl@gmail.com](mailto:amir78ahkl@gmail.com)
